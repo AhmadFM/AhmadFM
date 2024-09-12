@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadFM
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back End Development
+- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmadfuadm123@gmail.com
 
